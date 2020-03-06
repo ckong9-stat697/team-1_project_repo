@@ -42,6 +42,9 @@ decimals which is impossible for number of counts.
 Methodology: We sort the ranking of Meeting UC/CSU Grad requirement to see the 
 trend of number of students met the requirement to enter colleges with respect 
 to Charter School or not.
+
+Followup Steps: 
+
 */
 
 
